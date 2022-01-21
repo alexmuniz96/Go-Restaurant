@@ -18,17 +18,17 @@
     },
     {
       "image": "",
-      "name": "Sushi ",
+      "name": "Sushis",
       "price": "20.90",
-      "description": "Peça de 20 sushis",
+      "description": "Peça de 30 sushis",
       "available": true,
       "id": 3
     },
     {
       "image": "",
-      "name": "Rabanada",
+      "name": "Rabanadas",
       "price": "200",
-      "description": "Cozida no molho",
+      "description": "Doce de Natal",
       "available": true,
       "id": 4
     }
