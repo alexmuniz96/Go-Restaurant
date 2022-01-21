@@ -15,6 +15,22 @@
       "price": "20.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "image": "",
+      "name": "Sushi ",
+      "price": "20.90",
+      "description": "Peça de 20 sushis",
+      "available": true,
+      "id": 3
+    },
+    {
+      "image": "",
+      "name": "Rabanada",
+      "price": "200",
+      "description": "Cozida no molho",
+      "available": true,
+      "id": 4
     }
   ]
 }

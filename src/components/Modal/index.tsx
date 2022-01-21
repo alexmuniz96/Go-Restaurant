@@ -12,7 +12,6 @@ export default function Modal({ isOpen, children, setIsOpen }: PropsModal) {
 
   useEffect(() => {
     if (modalStatus !== isOpen) {
-      console.log(isOpen)
       setModalStatus(isOpen)
     }
   }, [modalStatus, isOpen])
